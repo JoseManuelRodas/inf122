@@ -1,1 +1,2 @@
-# inf122
+NOMBRE: Jose Manuel Rodas Villarroel
+MATERIA: INF-122

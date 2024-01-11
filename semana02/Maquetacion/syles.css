@@ -25,3 +25,14 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+
+p {
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+    color:rgb(76, 108, 153);
+}
+img{
+    max-width: 25%;
+    max-height: 25%;
+}
